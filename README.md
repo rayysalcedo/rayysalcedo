@@ -27,7 +27,7 @@ LLM features, document pipelines, and automation.
 - **[PrintSmart](https://github.com/rayysalcedo/PrintSmart)** — a full-stack e-commerce
   platform (live in production). Secure auth, Google/Facebook login, OTP verification,
   custom artwork uploads, and a full admin dashboard. *Flask · MySQL · Cloudinary.*
-- **AI Funnel & Course Builder** — a multi-tenant SaaS tool for a marketing agency:
+- **AI Content Generation Platform** — a multi-tenant SaaS tool for a marketing agency:
   OAuth 2.0 install flow, an LLM content-generation pipeline, and automated delivery into
   client accounts. *Private client work — [case study available](#).* *Node.js · OpenAI · PostgreSQL.*
 
