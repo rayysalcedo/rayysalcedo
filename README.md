@@ -10,7 +10,7 @@ LLM features, document pipelines, and automation.
   APIs, AI, and webhooks into something that runs in production.
 - 🔭 **Currently building** a multi-tenant AI content-generation tool for a marketing
   agency — OAuth 2.0, LLM generation pipelines, and Postgres-backed token storage.
-- 🌐 **Portfolio:** https://rayysalcedo.github.io/portfolio/
+- 🌐 **Portfolio:** https://raysalcedo.netlify.app
 
 ### 🧰 Tech
 
